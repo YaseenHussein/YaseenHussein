@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yaseen Hussein Gasem Saeed</h1>
-<h3 align="center">As a Flutter developer, I've mastered the art from the ground up, embracing SOLID principles, clean architecture, and MWM to ensure my code is as efficient as it is elegant. My expertise shines in creating responsive and adaptive Uls, integrating Google Maps, and crafting smooth animations that bring apps to life. I'm proud of my extensive portfolio, which includes a comprehensive delivery app ecosystem catering to customers, delivery personnel, and suppliers—a testament to my ability to manage complex projects and deliver exceptional results.</h3>
+<h3 align="center">  Experienced Flutter Developer and Co-Founder skilled in SOLID, Clean Architecture, MVC, and MVVM. Expert in delivering scalable mobile apps with responsive UI, Google Maps, payment integration, and advanced state management. Proven leader in full-cycle development and multi-project management. Seeking to drive innovation and deliver high-quality solutions in a forward-thinking company.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaseenhussein&label=Profile%20views&color=0e75b6&style=flat" alt="yaseenhussein" /> </p>
 
@@ -30,15 +30,68 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaseenhussein&" alt="yaseenhussein" /></p>
 
 <div class="markdown-heading" dir="auto"><h2 dir="auto" class="heading-element"><a id="user-content--samples-from-my-projects-" href="#-samples-from-my-projects-"></a> Samples from my projects </h2><a id="user-content--samples-from-my-projects-" class="anchor" aria-label="Permalink:  Samples from my projects " href="#-samples-from-my-projects-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<!--my first app-->
-<div class="markdown-heading" dir="auto"><h3 dir="auto" class="heading-element"><a id="user-content-chitah" href="#chitah"></a>• Matuer app</h3><a id="user-content-cheetah" class="anchor" aria-label="Permalink: Cheetah" href="#cheetah"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<p dir="auto">it was my graduation project my job was to create all the applications, which were an application for the customer, an application for the delivery worker, and an application for the products supplier.</p>
-<!--my second app-->
-<div class="markdown-heading" dir="auto"><h3 dir="auto" class="heading-element"><a id="user-content-chitah" href="#chitah"></a>• Social app</h3><a id="user-content-cheetah" class="anchor" aria-label="Permalink: Cheetah" href="#cheetah"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<p dir="auto">I developed a social networking application using Firebase and also
-provided voice and video communication through Zegocloud
-.</p>
-<!--my third app-->
-<div class="markdown-heading" dir="auto"><h3 dir="auto" class="heading-element"><a id="user-content-chitah" href="#chitah"></a>• Responsive and adaptive dashboard</h3><a id="user-content-cheetah" class="anchor" aria-label="Permalink: Cheetah" href="#cheetah"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<p dir="auto">Developing a simple control panel that is compatible with all devices
-.</p>
+
+
+### 📱 Agad App (إيجاد مفقود) — *Lead Developer*  
+**Duration:** December 2024 – Present  
+A lost-and-found mobile application built with Flutter. Fully responsible for planning, development, and feature updates.  
+**Key Features:**  
+- Item registration, search, and listing  
+- MVC architecture for maintainability  
+- Onboarding experience with showcase  
+- Local notifications  
+- Google Maps integration  
+- Image editing and upload  
+- User authentication with OTP verification  
+- Continuous updates based on user feedback  
+[🔗 Google Play Store: https://play.google.com/store/apps/details?id=com.egad.mafqudati.yememapp]
+
+---
+
+### 🛍️ Astool App — *Lead Developer (Yemen Market)*  
+**Duration:** December 2024 – Present  
+Customization and optimization of an e-commerce app tailored to the Yemeni market.  
+**Responsibilities:**  
+- Implementing user-requested features  
+- Bug fixes and performance enhancements  
+- UI/UX redesign for localization  
+- Regular updates and feature improvements  
+[🔗 Visit the website: https://astool.shop/]
+
+---
+
+### 💳 `flutter_paypal_payment_plus` Package  
+**Released:** May 2025  
+A lightweight Flutter package for PayPal Checkout integration.  
+**Highlights:**  
+- One-time payment setup with custom amount, currency, and receiver  
+- Android & iOS support  
+- Simple setup using PayPal Client ID  
+[🔗 pub.dev: https://pub.dev/packages/flutter_paypal_payment_plus/versions]
+
+---
+
+### 🚚 Delivery Apps Suite — *Graduation Project*  
+**Duration:** April 2023 – June 2024  
+A complete multi-role delivery system including:  
+- **Customer App:** Order placement  
+- **Delivery App:** Manage and fulfill orders  
+- **Supplier App:** Product and inventory management
+
+---
+
+### 🗣️ Social Networking App  
+**Duration:** July 2023 – August 2023  
+Social media mobile application developed using Flutter and Firebase.  
+**Features:**  
+- Real-time messaging  
+- Voice and video calls  
+[🔗  https://github.com/YaseenHussein/social-app.git]
+
+---
+
+### 🖥️ Responsive & Adaptive Dashboard  
+**Released:** May 2024  
+Developed a fully responsive admin dashboard that works seamlessly across devices and screen sizes.  
+[🔗 https://github.com/YaseenHussein/dashboard_app.git]
+
