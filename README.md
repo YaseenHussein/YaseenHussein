@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yaseen Hussein Gasem Saeed</h1>
-<h3 align="center">Senior Flutter Developer & Full-Stack / DevOps Engineer</h3>
+<h1 align="center">Hi 👋, I'm Yaseen Hussein Qasem Saeed</h1>
+<h3 align="center">Full-Stack Mobile Engineer | DevOps & UI/UX Specialist</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yaseenhussein&label=Profile%20views&color=0e75b6&style=flat-square" alt="yaseenhussein" />
@@ -7,15 +7,15 @@
 </p>
 
 <p align="center">
-  <strong>Experienced Senior Flutter Developer and System Architect</strong> skilled in writing predictable, clean code utilizing <strong>Clean Architecture, SOLID Principles, BLoC, MVC, and MVVM</strong>. Expert in deploying, configuring, and scaling backend ecosystems via <strong>Linux VPS, Nginx, Redis, and Cloudflare</strong>, alongside complete CI/CD automation with <strong>GitHub Actions and Fastlane</strong>. Proven track record of taking complex FinTech and ERP systems from ideation directly to production.
+  <strong>Versatile Full-Stack Mobile Engineer and Technical Leader</strong> skilled in writing predictable, clean code utilizing <strong>Clean Architecture, SOLID Principles, BLoC, MVC, and MVVM</strong>. Expert in cross-platform development (Flutter/Dart) with native capabilities (Kotlin/Jetpack Compose), backed by strong experience in backend architectures (Laravel/Firebase) and cloud infrastructure administration (DigitalOcean/Cloudflare).
 </p>
 
 ---
 
 ### 🔭 Current Focus & Activities
-- 🚀 **Currently working on:** Structuring high-concurrency payment ecosystems, specialized transport suites, and automated cloud deployments.
-- 🌱 **Expanding Expertise in:** Advanced Distributed Systems, Full-Stack Software Engineering, and deep Cloud Infrastructure / DevOps architectures.
-- 💬 **Ask me about:** Flutter, Dart, Clean Architecture, SOLID Principles, Linux VPS Automation, Redis Caching, Nginx configurations, GitHub Actions, and FinTech Solutions.
+- 🚀 **Currently working on:** Re-configuring and customizing high-concurrency transport suites (JunTaxi) for the Gulf market and driving tech solutions at AstoolSoft.
+- 🌱 **Expanding Expertise in:** Modern Android Development (Jetpack Compose), Laravel Advanced APIs, and secure DevOps pipelines.
+- 💬 **Ask me about:** Flutter & Dart, Mobile App Security, State Management (Bloc/Cubit/Provider), Server Administration, Active Directory, and System Analysis.
 - 📫 **How to reach me:** [yaseenhusseingasemsaeed@gmail.com](mailto:yaseenhusseingasemsaeed@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
@@ -27,17 +27,16 @@
 ---
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
+<p align="left">  
+  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>  
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>  
+  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>  
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40" height="40"/> </a>  
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>  
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  
 </p>
 
 <p align="center">
@@ -49,61 +48,56 @@
 
 ## 🚀 Featured Production Projects & Systems
 
-### 💳 Top Sadad App — Lead Developer & System Architect
-> **Duration:** March 2026 – Present  
-> **Live Production Links:** [Google Play](https://play.google.com/store/apps/details?id=com.topsadad) | [Website](https://topsadad.com)
+### 🚕 JunTaxi Suite — DevOps Engineer & UI/UX Specialist
+> **Duration:** May 2026 – Present   
+> **Website:** [juntaxi.com](https://juntaxi.com)
 
-A comprehensive FinTech mobile recharge and instant payment platform engineered from scratch to manage heavy concurrent transactional flows safely.
-* **Key Achievements:** * Configured complete Linux VPS environments, implemented Nginx reverse proxies, and debugged complex cloud network/firewall routing bottlenecks (resolved Cloudflare 521/526 configurations and temporary config file deadlocks).
-  * Implemented and structured Redis memory blocks to optimize response caches during high-concurrency requests.
-  * Established unified, continuous automation deployment (CI/CD) pipelines utilizing **GitHub Actions** and **Fastlane** backed by Flutter Flavors.
+Re-configuring and customizing an Uber-like ride-hailing app for the Saudi Arabian market, managing server deployment, cloud infrastructure setup, and optimizing interface responsiveness.
 
 ---
 
-### 📱 Agad App (إيجاد مفقود) — Lead Developer
-> **Duration:** December 2024 – 2025  
-> **Live Production Link:** [Google Play Store](https://play.google.com/store/apps/details?id=com.egad.mafqudati.yememapp)
+### 🏢 Binaa360 — Systems Analyst & Agile Project Manager
+> **Duration:** September 2025 – February 2026   
+> **Website:** [binaa360.com](https://binaa360.com/home)
 
-A heavily modular community lost-and-found mobile architecture structured completely on an optimized MVC design pattern for painless scalability.
-* **Key Features:** Google Maps API core integrations, multi-device local notification caching, secure background media/image processing, and strict OTP mobile authentication loops.
-
----
-
-### 🛍️ Astool App / Astool Soft — Lead Developer
-> **Duration:** December 2024 – 2025  
-> **Live Production Link:** [Website](https://astool.shop) | [ERP Portal](https://astoolsoft.com)
-
-A massive, specialized multi-tenant ERP software suite and high-traffic e-commerce application customized directly for enterprise asset pools, gold shops, and restaurant workflows.
-* **Key Achievements:** Refactored performance bottlenecks in rendering structures, tailored localized regional checking configurations, and unified backend accounting, reporting, and asset systems smoothly.
+Led full lifecycle planning and analysis for a major contracting and engineering platform. Facilitated Agile/Scrum sprints and mapped complete B2B user journeys.
 
 ---
 
-### 🚕 Jun Taxi Suite — Lead Flutter & DevOps Engineer
-> **Duration:** June 2026 – Present  
+### 💳 Top Sadad App — Full-Stack Lead Developer
+> **Duration:** July 2025 – Present   
+> **Live Links:** [Google Play](https://play.google.com/store/apps/details?id=com.topsadad) | [Website](https://topsadad.com)
 
-An integrated smart transport system containing client, administrative, and driver application modules built with deep UI adaptability.
-* **Key Achievements:** Programmed smooth interface themes utilizing Flutter Theme Extensions, scaled server-side environments using Redis caches, and accelerated build workflows with dedicated **GitHub Actions** pipelines.
+A robust FinTech mobile payment application built independently from scratch. Managed cloud hosting on DigitalOcean and implemented anti-DDoS security via Cloudflare.
 
 ---
 
 ### 📦 flutter_paypal_payment_plus (Open Source Package)
-> **Released:** May 2025  
+> **Released:** May 2025   
 > **Pub.dev Link:** [flutter_paypal_payment_plus](https://pub.dev/packages/flutter_paypal_payment_plus)
 
-A verified developer-focused Flutter package written to allow seamless native multi-currency PayPal Checkout injection across cross-platform instances.
-* **Highlights:** Native webview control listeners, multi-currency processing fallback engines, and explicit transaction event handlers.
+A lightweight Flutter package written to allow seamless native PayPal Checkout integration. Features customizable currencies and straightforward setup using client IDs.
 
 ---
 
-### 🌐 Glenn Raya Platform — DevOps Automation Engineer
-> **Duration:** June 2026
+### 📱 Agad App (إيجاد مفقود) — Lead Developer
+> **Duration:** December 2024 – September 2025   
+> **Live Link:** [Google Play Store](https://play.google.com/store/apps/details?id=com.egad.mafqudati.yememapp)
 
-* **Key Achievements:** Programmed robust deployment orchestration layers with **GitHub Actions** for a production Laravel system to dynamically handle asset compilations, run safe remote database migrations, and handle target environment adjustments.
+A community-focused lost-and-found mobile app built on a clean MVC architecture. Integrates Google Maps API, local notifications, and OTP mobile authentication.
 
 ---
 
-## 🎓 Internal & Open Source Workcases
+### 🛍️ Astool App — Lead Developer (Market Optimization)
+> **Duration:** December 2024 – 2025   
+> **Live Link:** [Google Drive App Demo](https://drive.google.com/file/d/1Iy3y-OO4iVtY2g1W-GtBqP45l3kz5rXC/view?usp=drive_link)
 
-- **🚚 Delivery Apps Suite (Graduation Project):** Multi-role shipping system encompassing interconnected Customer, Driver, and Supplier applications running automated order status machines.
-- **🗣️ Social Networking App:** High-efficiency chat application using Flutter and Firebase, featuring live peer-to-peer audio/video streaming channels. [🔗 GitHub Repository](https://github.com/YaseenHussein/social-app.git)
-- **🖥️ Responsive & Adaptive Dashboard:** Web admin architecture demonstrating unified layout changes spanning Desktop, Tablet, and Mobile viewport states. [🔗 GitHub Repository](https://github.com/YaseenHussein/dashboard_app.git)
+Customized and optimized an e-commerce mobile application specifically tailored to fit the logistics and unique business dynamics of the Yemeni market.
+
+---
+
+## 🎓 Academic & Open Source Workcases
+
+- **🚚 Delivery Apps Suite (Graduation Project):** A comprehensive three-tier ecosystem encompassing interconnected Customer, Driver, and Supplier application modules.
+- **🗣️ Social Networking App:** High-efficiency chat application using Flutter and Firebase, featuring live audio/video communication. [🔗 GitHub Repository](https://github.com/YaseenHussein/social-app.git)
+- **🖥️ Responsive & Adaptive Dashboard:** Web admin dashboard demonstrating unified layout adaptation across Desktop, Tablet, and Mobile screens. [🔗 GitHub Repository](https://github.com/YaseenHussein/dashboard_app.git)
